@@ -5,4 +5,4 @@ export enum Template {
 
 export type TemplateLanguage = {
   language: Template;
-}
+};

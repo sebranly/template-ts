@@ -1,7 +1,7 @@
-import React from "react";
-import { WEBSITE_TITLE } from "./constants/general";
-import { Footer } from "./components/Footer";
-import "./App.css";
+import React from 'react';
+import { WEBSITE_TITLE } from './constants/general';
+import { Footer } from './components/Footer';
+import './App.css';
 
 function App() {
   return (
