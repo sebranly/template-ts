@@ -5,6 +5,9 @@
 - [ ] Create a repo on GitHub
   - [ ] Add a license if applicable
 - [ ] Sync up local and remote
+- [ ] On GitHub go to Settings > Pages and activate it for `master`
+  - [ ] A GitHub Action should be queued for publishing the website live
+- [ ] Go back to `main`
 
 # Rest of the README.md below
 
