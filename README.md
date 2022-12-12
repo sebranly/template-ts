@@ -1,3 +1,13 @@
+# Template TODO
+
+- [ ] Copy this template folder locally
+- [ ] Verify latest node and npm
+- [ ] Create a repo on GitHub
+  - [ ] Add a license if applicable
+- [ ] Sync up local and remote
+
+# Rest of the README.md below
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
