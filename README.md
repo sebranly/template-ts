@@ -1,3 +1,5 @@
+Available at https://sebranly.github.io/template-ts/
+
 # Template TODO
 
 - [ ] Copy this template folder locally
