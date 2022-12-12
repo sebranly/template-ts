@@ -1,4 +1,6 @@
-Available at https://sebranly.github.io/template-ts/
+# Description
+
+This template project is live at https://sebranly.github.io/template-ts/
 
 This project allows you to quickly spin up a React + TypeScript based project, hosted on GitHub Pages under the URL: `https://<github username>.github.io/<repo name>`.
 
@@ -7,11 +9,13 @@ The idea is having two branches:
 - `main` for development
 - `master` for automated publishing via `gh-pages` package
 
-Pull Requests get created from a feature branch to `main`, then `npm run deploy` command can be run from a synced up `main` branch in order to automatically publish to GitHub pages thanks to output files on `master` branch created from `gh-pages`.
+More details:
 
-# Template TODO
+- Pull Requests get created from featured branches that can be merged to `main`
+- `npm run deploy` command can be run from a synced up `main` branch in order to automatically publish to GitHub Pages
+  - published files are the output created from `gh-pages`, available at `master` branch that should not be edited manually.
 
-This section can be removed from your project once the template has been fully copied/edited
+# Template TODOs
 
 - [ ] Copy this template folder locally
 - [ ] Verify latest node and npm
@@ -33,6 +37,14 @@ This section can be removed from your project once the template has been fully c
 ## Not supported
 
 - Creation of `CNAME` for custom domain
+
+# Last steps...
+
+Once the project is created thanks to the template:
+
+- [ ] remove `README.md` sections above
+- [ ] edit section below (search for `sebranly` and `template` strings)
+- [ ] your new `README.md` file for your own website is ready!
 
 ## Development
 
