@@ -17,7 +17,9 @@ More details:
 
 # Template TODOs
 
-- [ ] Copy this template folder locally
+- [ ] Create a new local folder with your new project name (from scratch with `mkdir` for instance)
+- [ ] In `template-ts` folder, run `rm -rf node_modules` to delete installed packages
+- [ ] Copy this template folder locally onto the new project folder
 - [ ] Verify latest node and npm
 - [ ] Create a repo on GitHub
   - [ ] Add a different license if applicable
