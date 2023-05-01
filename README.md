@@ -1,5 +1,7 @@
 # Description
 
+**Deprecated:** This repository is read-only now. It is highly dependent on `create-react-app` that is not well-maintained anymore. 
+
 This template project is live at https://sebranly.github.io/template-ts/
 
 This project allows you to quickly spin up a React + TypeScript based project, hosted on GitHub Pages under the URL: `https://<github username>.github.io/<repo name>`.
